@@ -5,7 +5,9 @@
 - <b>Azure Virtual machines (Microsoft cloud service for computing infrastructure.)</b>
   - [Configuring a Virtual machine and Remote desktop (RDP) access](https://github.com/Loqq57/Configuring-a-Virtual-machine-and-Remote-desktop-RDP-access)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](Under Construction)
+  <p><img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/b61f819f-3d25-46a4-b26d-91005bef0ea8" />
+</p>
 
 <h2>🤳Connect with me:</h2>
 

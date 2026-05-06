@@ -1,4 +1,7 @@
-<h1>Hi, I'm Cody, an <a href="https://www.linkedin.com/in/cody-glover-818353401/">Aspiring IT Support Specialist</a>☺</h1>
+<h1>Hello and welcome to my page.
+  
+  I'm Cody, 
+  an <a href="https://www.linkedin.com/in/cody-glover-818353401/">Aspiring IT Support Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
